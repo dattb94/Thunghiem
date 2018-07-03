@@ -7,6 +7,10 @@ public class thunghiem : MonoBehaviour {
 
     ///dattb1994_change
 	// Use this for initialization
+
+    /// comit1
+    //comit2
+    //comit3
 	void Start () {
 		
 	}

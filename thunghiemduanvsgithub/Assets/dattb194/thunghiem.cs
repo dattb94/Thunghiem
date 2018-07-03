@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,6 +11,7 @@ public class thunghiem : MonoBehaviour {
     /// comit1
     //comit2
     //comit3
+    //comit4
 	void Start () {
 		
 	}

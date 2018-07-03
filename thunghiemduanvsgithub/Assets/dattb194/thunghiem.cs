@@ -6,7 +6,7 @@ public class thunghiem : MonoBehaviour {
 	GameObject a;
 
 //change1
-
+//chnage2
 	void Start () {
 		
 	}

@@ -5,7 +5,6 @@ using UnityEngine;
 public class thunghiem : MonoBehaviour {
 	GameObject a;
 
-    ///cmm
 
 	void Start () {
 		

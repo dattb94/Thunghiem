@@ -12,8 +12,11 @@ public class thunghiem : MonoBehaviour {
     //comit2
     //comit3
 <<<<<<< HEAD
+<<<<<<< HEAD
     //comit4
     //comit5
+=======
+>>>>>>> parent of 73bf7d2... 3
 =======
 >>>>>>> parent of 73bf7d2... 3
 	void Start () {

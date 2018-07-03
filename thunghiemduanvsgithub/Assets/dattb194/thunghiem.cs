@@ -12,6 +12,7 @@ public class thunghiem : MonoBehaviour {
     //comit2
     //comit3
     //comit4
+    //comit5
 	void Start () {
 		
 	}
